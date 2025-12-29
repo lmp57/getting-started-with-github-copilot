@@ -1,6 +1,6 @@
 """
 High School Management System API
-
+howdy
 A super simple FastAPI application that allows students to view and sign up
 for extracurricular activities at Mergington High School.
 """
